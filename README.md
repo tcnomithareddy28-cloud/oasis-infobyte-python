@@ -4,11 +4,11 @@ A collection of Python projects completed during my **Oasis Infobyte Python Prog
 
 ## 🚀 Projects
 
-### 1. 🎙️ Voice Assistant — Project 1
+### 1. 🎙️ Voice Assistant — Oasis Infobyte Project 1
 
 A Python voice assistant that captures microphone input, converts speech to text, processes commands, and responds using text-to-speech.
 
-### 2. ⚖️ BMI Calculator — Project 2
+### 2. ⚖️ BMI Calculator — Oasis Infobyte Project 2
 
 A desktop BMI calculator built with **Tkinter**, supporting both metric and imperial units and maintaining a local calculation history.
 
@@ -44,13 +44,13 @@ The BMI Calculator uses Tkinter, which is included with standard Python installa
 
 ## ▶️ Run the Projects
 
-**Voice Assistant — Project 1**
+**Voice Assistant — Oasis Infobyte Project 1**
 
 ```bash
 python voice_assistant.py
 ```
 
-**BMI Calculator — Project 2**
+**BMI Calculator — Oasis Infobyte Project 2**
 
 ```bash
 python bmi_calculator.py
