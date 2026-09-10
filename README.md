@@ -4,40 +4,17 @@ A collection of Python projects completed during my **Oasis Infobyte Python Prog
 
 ## 🚀 Projects
 
-### 1. 🎙️ Voice Assistant
+### 1. 🎙️ Voice Assistant — Project 1
 
 A Python voice assistant that captures microphone input, converts speech to text, processes commands, and responds using text-to-speech.
 
-**Features**
-- Speech recognition using Google Speech Recognition
-- Text-to-speech responses with `pyttsx3`
-- Voice-based time and date queries
-- Web search from voice commands
-- Opens Google and YouTube
-- Basic conversational responses
-- Graceful handling of unrecognized speech and service errors
-
-**Technologies:** Python, SpeechRecognition, pyttsx3, sounddevice, SoundFile, NumPy
-
-### 2. ⚖️ BMI Calculator
+### 2. ⚖️ BMI Calculator — Project 2
 
 A desktop BMI calculator built with **Tkinter**, supporting both metric and imperial units and maintaining a local calculation history.
-
-**Features**
-- Metric and imperial unit support
-- BMI calculation and health-category classification
-- Input validation and error handling
-- Color-coded results
-- Health tips based on BMI category
-- JSON-based history storage
-- View and clear recent BMI records
-
-**Technologies:** Python, Tkinter, JSON, File Handling
 
 ## 🧠 Skills Demonstrated
 
 - Python application development
-- Object-oriented programming
 - GUI development with Tkinter
 - Speech recognition and text-to-speech
 - File and JSON handling
@@ -57,15 +34,6 @@ oasis-infobyte-python/
 
 ## ⚙️ Setup
 
-### Clone the repository
-
-```bash
-git clone https://github.com/tcnomithareddy28-cloud/oasis-infobyte-python.git
-cd oasis-infobyte-python
-```
-
-### Install dependencies
-
 For the Voice Assistant:
 
 ```bash
@@ -76,13 +44,13 @@ The BMI Calculator uses Tkinter, which is included with standard Python installa
 
 ## ▶️ Run the Projects
 
-**Voice Assistant**
+**Voice Assistant — Project 1**
 
 ```bash
 python voice_assistant.py
 ```
 
-**BMI Calculator**
+**BMI Calculator — Project 2**
 
 ```bash
 python bmi_calculator.py
@@ -92,10 +60,10 @@ python bmi_calculator.py
 
 ## 🎓 Internship Learning Outcomes
 
-Through these projects, I strengthened my understanding of Python programming by building interactive applications rather than only working with isolated code exercises. The projects provided practical experience with GUI programming, APIs/services, audio input, persistent local data, and user-focused error handling.
+Through these projects, I strengthened my understanding of Python programming by building interactive applications and gaining practical experience with GUI programming, speech recognition, text-to-speech, persistent local data, and user-focused error handling.
 
 ## 👩‍💻 Author
 
-**Nomitha Reddy**
+**THURPU CHINNABBA REDDY NOMITHA**
 
 Python Developer | AI & ML Enthusiast
